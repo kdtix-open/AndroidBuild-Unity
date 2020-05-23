@@ -18,24 +18,26 @@ MonoBehaviour:
   m_GUID: b1604c79d7aff994f88b465f4c736120
   m_SerializeEntries:
   - m_GUID: 10d115419dc598849829a8b5e083fbe9
-    m_Address: Assets/Prefab
+    m_Address: Prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 446b854c1f10c454fa3655290e760d59
-    m_Address: Assets/Sprites
+    m_Address: Sprites
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 69a2076ce0d8b6c48b1968779d07f3ce
     m_Address: Material
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: SampleScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   - m_GUID: f54d1bd14bd3ca042bd867b519fee8cc
-    m_Address: Assets/TextMesh Pro
+    m_Address: TextMesh Pro
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 96ce7fe76d7e71444a46b7f2b8450973, type: 2}
   m_SchemaSet:
-    m_Schemas:
-    - {fileID: 11400000, guid: 4682acf2790251a4c87e722a42c8a500, type: 2}
-    - {fileID: 11400000, guid: edc7263e299661240a4550fa0f0de2be, type: 2}
+    m_Schemas: []
